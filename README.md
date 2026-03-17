@@ -1,4 +1,4 @@
-# Satellite Building Segmentation — Loss Function Comparison
+<img width="2780" height="1505" alt="Slide A  Model Architecture (EfficientNet-B5 + FPN) (1)" src="https://github.com/user-attachments/assets/6fedf67e-59ad-437b-902a-df548c1e87ac" /># Satellite Building Segmentation — Loss Function Comparison
 # 위성 이미지 건물 세그멘테이션 — 손실 함수 비교 실험
 
 > **Euron 9기 Pixels 팀 프로젝트** | [SW중심대학 공동 AI 경진대회 2023 (DACON, 종료)](https://dacon.io/competitions/official/236092/overview/description)
@@ -27,6 +27,9 @@ EfficientNet-B5 + FPN 구조를 기반으로, 세 가지 손실 함수(BCE, Dice
 | Library | `segmentation-models-pytorch` |
 
 ---
+<img width="2780" height="1505" alt="Slide A  Model Architecture (EfficientNet-B5 + FPN) (1)" src="https://github.com/user-attachments/assets/a9c92f57-79d6-4208-a8b2-fa97bce9fb68" />
+<img width="3077" height="1617" alt="Slide B  Research _ Training Workflow (Loss Comparison)" src="https://github.com/user-attachments/assets/823a9a71-d63c-46c9-81e8-cbe08003715f" />
+
 
 ## Experiment Results / 실험 결과
 
