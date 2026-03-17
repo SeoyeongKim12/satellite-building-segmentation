@@ -1,0 +1,4 @@
+loss,EPOCHS,lr,weight_decay,best_epoch_by_val_iou(th=0.5log),best_model_path,best_threshold_by_val_iou,val_iou@best_th,val_dice@best_th,eval_threshold_used,note,total_time_sec,pth_saved
+BCE,5,0.0001,1e-05,5,/content/drive/MyDrive/허정인/data/preprocessed/best_BCE.pth,0.5,0.6944586672619277,0.8033660228262428,0.5,"fixed threshold=TH_LOG (no sweep), submission OFF, pth NOT saved (in-memory best_state)",2984.3397591114044,False
+Dice,5,0.0001,1e-05,5,/content/drive/MyDrive/허정인/data/preprocessed/best_Dice.pth,0.5,0.6821924345124335,0.7943280159759254,0.5,"fixed threshold=TH_LOG (no sweep), submission OFF, pth NOT saved (in-memory best_state)",2925.13002204895,False
+BCE + Dice,5,0.0001,1e-05,4,/content/drive/MyDrive/허정인/data/preprocessed/best_BCE_+_Dice.pth,0.5,0.700773068127178,0.8094130003569173,0.5,"fixed threshold=TH_LOG (no sweep), submission OFF, pth NOT saved (in-memory best_state)",2973.4892840385437,False

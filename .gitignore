@@ -1,0 +1,31 @@
+# Data (대회 데이터 / 개인 데이터 제외)
+data/
+*.csv
+!results/*.csv
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Google Colab cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets / credentials
+*.env
+secrets.json
+
+# Outputs (대용량 파일)
+outputs/
+preprocessed/
+*.zip
