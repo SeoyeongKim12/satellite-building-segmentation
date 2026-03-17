@@ -1,7 +1,7 @@
 # Satellite Building Segmentation — Loss Function Comparison
 # 위성 이미지 건물 세그멘테이션 — 손실 함수 비교 실험
 
-> **Euron 9기 Pixels 팀 프로젝트**
+> **Euron 9기 Pixels 팀 프로젝트** | [SW중심대학 공동 AI 경진대회 2023 (DACON, 종료)](https://dacon.io/competitions/official/236092/overview/description)
 
 ---
 
